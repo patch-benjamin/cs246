@@ -3,7 +3,7 @@ class HelloWorld{
 
       public static void main(String [] args){
 <<<<<<< HEAD
-      System.out.println("Hello worldy World!!");
+      System.out.println("Hello funkydunky worldy World!!");
 =======
       System.out.println("Hello Dang World!!");
 >>>>>>> origin/master
